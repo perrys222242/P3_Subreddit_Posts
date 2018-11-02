@@ -1,5 +1,6 @@
 # Predict the Epic Sci-Fi Universe
 ### ("How to skip SJW-drama")
+by p.Shyr
 
    The natural-language problem explored asks whether or not Star-Trek post-titles can be identified from a set of science-fiction franchise posts. The subreddits from which the post-titles originated, were 'StarWars' and startrek.'  Our positive class is any post from 'r/startrek' and our baseline model predicts that a science-fiction post always originates from Star-Trek fans.
 

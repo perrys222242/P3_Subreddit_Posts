@@ -48,7 +48,7 @@ r) We might have benefitted from either lemmatizing or stemming, prior to modeli
 
 
 ### Research
-None.
+N/A.
 
 
 # Summary of Methodology and Results
